@@ -1,7 +1,7 @@
 <div align="center"> 
 
 # 💫 About Me
-Olá, sou Gustavo Garbelini Piacente e atualmente estou cursando o segundo ano de Desenvolvimento de Sistemas na ETEC Antônio Devisate.
+Olá, sou Gustavo Garbelini Piacente e atualmente estou cursando o terceiro ano de Desenvolvimento de Sistemas na ETEC Antônio Devisate.
 
 
 ## 🌐 Socials
